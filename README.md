@@ -3,3 +3,4 @@
  Typescript
  
  * Challenge description: https://git.io/JfbRR
+ * Test Results on `Jest_results.png`
